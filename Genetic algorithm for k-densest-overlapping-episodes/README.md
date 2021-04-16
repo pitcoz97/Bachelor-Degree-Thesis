@@ -5,3 +5,5 @@ Implementazione in Python dell'algoritmo che risolve il problema della ricerca d
 - charikar_heap.py : calcola il sottografo più denso di un grafo dato.
 - chromosome.py : classe che rappresenta i cromosomi dell'algoritmo genetico.
 - genetic_algorithm.py : algoritmo genetico che calcola una segmentazione del dominio di tempo della rete temporale. 
+
+Per eseguire il codice lanciare genetic_algorithm.py 
