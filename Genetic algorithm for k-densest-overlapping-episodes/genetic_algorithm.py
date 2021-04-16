@@ -429,10 +429,10 @@ def start(dataset, h, g, k, alpha, students_t_max):
 
 if __name__ == '__main__':
 
-	k = 10
-	alpha = 0.1
+	k = 5
+	alpha = 0.2
 	h = 10
-	g = 5
+	g = 10
 
 	#TS = facebook_dataset()
 	#TS = enron_dataset()
